@@ -1,4 +1,5 @@
 # codefights-solutions
-My solutions for codefights (now https://codesignal.com) tasks with **Python**.
+My solutions for CodeFights programming exercises with **Python**.
+(now https://codesignal.com)
 
 https://app.codesignal.com/profile/cristian_t6
